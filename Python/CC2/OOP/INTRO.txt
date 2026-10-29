@@ -1,0 +1,18 @@
+# OOP (object oriented programming) :
+
+organize our code by grouping data and functions together.
+
+Class and object
+
+# class ...
+ex : car
+A car has :
+Data(properties) : color, brand, speed
+actions(methods) : start(),stop(),drive()
+
+## FOUR main concepts of OOP
+
+# Encapsulation
+# Inhertance
+# Polymorphism
+# Abstraction
